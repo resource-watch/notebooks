@@ -4,4 +4,4 @@ Aqueduct/lab/.DS_Store
 PreP/.DS_Store
 ResourceWatch/.DS_Store
 ResourceWatch/data_management/.DS_Store
-*.ipynb_checkpoints/
+*.ipynb_checkpoints
