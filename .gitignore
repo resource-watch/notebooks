@@ -1,7 +1,8 @@
-.DS_Store
+*.DS_Store
 Aqueduct/.DS_Store
 Aqueduct/lab/.DS_Store
 PreP/.DS_Store
 ResourceWatch/.DS_Store
 ResourceWatch/data_management/.DS_Store
 *.ipynb_checkpoints
+Aqueduct/lab/.ipynb_checkpoints
