@@ -6,3 +6,4 @@ ResourceWatch/.DS_Store
 ResourceWatch/data_management/.DS_Store
 *.ipynb_checkpoints
 Aqueduct/lab/.ipynb_checkpoints
+*.env
