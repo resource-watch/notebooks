@@ -7,3 +7,5 @@ ResourceWatch/data_management/.DS_Store
 *.ipynb_checkpoints
 Aqueduct/lab/.ipynb_checkpoints
 *.env
+layer-migration-v4/backup
+layer-migration-v4/jupyter-layer-test
