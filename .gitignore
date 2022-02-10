@@ -1,9 +1,15 @@
-*.DS_Store
+*.ipynb_checkpoints
 Aqueduct/.DS_Store
 Aqueduct/lab/.DS_Store
 PreP/.DS_Store
 ResourceWatch/.DS_Store
 ResourceWatch/data_management/.DS_Store
+ResourceWatch/.*
+
 *.ipynb_checkpoints
 Aqueduct/lab/.ipynb_checkpoints
 *.env
+layer-migration-v4/backup
+layer-migration-v4/.*
+layer-migration-v4/jupyter-layer-test
+.vscode
