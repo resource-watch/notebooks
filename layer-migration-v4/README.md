@@ -17,6 +17,6 @@ object.  The layerConfig object is a dictionary with the following keys:
 
 note:
 
-* The gee layer styles provider is a custom internal tyler so in order to render the tiles in the server you must keep  the gee keys [body, assetId, isImageCollection, position]
+* The gee layer styles provider is a custom internal tyler so in order to render the tiles in the server you must keep  the gee keys `[body, assetId, isImageCollection, position]`
 
-* Timeline layers does also contain [timelineLabel, order, timeline]
+* Timeline layers does also contain `[timelineLabel, order, timeline]`
